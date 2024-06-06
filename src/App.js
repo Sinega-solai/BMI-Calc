@@ -1,10 +1,10 @@
-import Advice from "./Components/Advice"
+import Bmi from "./Components/Bmi"
 import './App.css';
 
 function App() {
   return (
     <div>
-      <Advice />
+      <Bmi />
     </div>
   );
 }
